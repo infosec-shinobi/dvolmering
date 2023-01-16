@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Volmering Book of Knowledge</title>
+    <link>https://dvolmering.com/tags/</link>
+    <description>Recent content in Tags on Volmering Book of Knowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 14:39:00 +0000</lastBuildDate><atom:link href="https://dvolmering.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://dvolmering.com/tags/background/</link>
+      <pubDate>Mon, 16 Jan 2023 14:39:00 +0000</pubDate>
+      
+      <guid>https://dvolmering.com/tags/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://dvolmering.com/tags/first-post/</link>
+      <pubDate>Mon, 16 Jan 2023 14:39:00 +0000</pubDate>
+      
+      <guid>https://dvolmering.com/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://dvolmering.com/tags/intro/</link>
+      <pubDate>Mon, 16 Jan 2023 14:39:00 +0000</pubDate>
+      
+      <guid>https://dvolmering.com/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

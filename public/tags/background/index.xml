@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Background on Volmering Book of Knowledge</title>
+    <link>https://dvolmering.com/tags/background/</link>
+    <description>Recent content in Background on Volmering Book of Knowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 14:39:00 +0000</lastBuildDate><atom:link href="https://dvolmering.com/tags/background/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So it beings</title>
+      <link>https://dvolmering.com/blog/0001/</link>
+      <pubDate>Mon, 16 Jan 2023 14:39:00 +0000</pubDate>
+      
+      <guid>https://dvolmering.com/blog/0001/</guid>
+      <description>Welcome I appreciate you stopping by! This is my little slice of the internet that I am calling home and using to capture my random tidbits of knowledge that I pick up along my journey.
+Possible Post Content Topics covered will be wide and vary on what day of the week and what is currently peaking my interest. Current hobbies include:
+BJJ Python Kubernetes AWS/Cloud Automating all the things (including this site) Whiskey Food Why I have had a domain for many years.</description>
+    </item>
+    
+  </channel>
+</rss>
