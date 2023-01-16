@@ -35,4 +35,4 @@ I have had a domain for many years. I have told myself I would create a site man
 
 Hoping for plenty of love and beautiful sunsets in 2023.
 
-{{< figure src="sunset.jpg" height=500x >}}
+{{< figure src="../sunset.jpg" height=500x >}}
