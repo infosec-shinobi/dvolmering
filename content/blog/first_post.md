@@ -3,12 +3,11 @@ title: "So it beings"
 draft: false
 author: "derek"
 tags:
-  - First post
   - Background
   - Intro
 image: /images/blog/here_for_a_good_time.jpg
 description: "First blog post"
-date: 2023-01-16T14:39:00
+date: 2023-01-16T17:39:00
 draft: false
 toc: true
 ---
