@@ -2,29 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dvolmering.com/tags/background/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/tags/background/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/blog/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/blog/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/tags/first-post/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/tags/intro/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/tags/intro/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/blog/first_post/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/blog/0001/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/tags/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/tags/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/</loc>
+    <lastmod>2023-01-16T17:39:00+00:00</lastmod>
   </url><url>
-    <loc>https://dvolmering.com/</loc>
-    <lastmod>2023-01-16T14:39:00+00:00</lastmod>
+    <loc>https://www.dvolmering.com/categories/</loc>
   </url><url>
-    <loc>https://dvolmering.com/categories/</loc>
-  </url><url>
-    <loc>https://dvolmering.com/gallery/</loc>
+    <loc>https://www.dvolmering.com/gallery/</loc>
   </url>
 </urlset>

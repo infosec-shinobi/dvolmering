@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Gallery on Volmering Book of Knowledge</title>
-    <link>https://dvolmering.com/gallery/</link>
+    <link>https://www.dvolmering.com/gallery/</link>
     <description>Recent content in Image Gallery on Volmering Book of Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dvolmering.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.dvolmering.com/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
