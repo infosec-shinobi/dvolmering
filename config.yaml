@@ -113,8 +113,8 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "My name is"
-    title: "Derek"
+    intro: ""
+    title: "I'm Derek"
     subtitle: "and I enjoy learning new things"
     content: "This site is an attempt for me to start better documenting my learning. My interests are wide, from computer science and programing, to whiskey, to food, to BJJ... The blog topics will be wide. Most of the writings will be geared more towards reminders for myself; however, I hope others might find some of my learnings useful."
     image: /images/main/pro_pic.jpg
